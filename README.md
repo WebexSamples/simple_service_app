@@ -29,7 +29,7 @@ Note: The other dependencies are part of the Python Standard Library and do not 
 
 ## Setup
 
-1. Replace `YOUR CLIENT ID HERE`, `YOUR CLIENT SECRET HERE`, `ACCESS TOKEN POST ADMIN AUTHORIZATION`, `REFRESH TOKEN POST ADMIN AUTHORIZATION` with your own values. These values are produced by registering a service app on Webex App Hub @ developer.webex.com.
+1. Replace `YOUR CLIENT ID HERE`, `YOUR CLIENT SECRET HERE`, `ACCESS TOKEN POST ADMIN AUTHORIZATION`, `REFRESH TOKEN POST ADMIN AUTHORIZATION` with your own values. These values are produced by registering a service app on Webex Developer Portal @ developer.webex.com.
 
 2. Replace `'A sub users email'` with the email of the subuser for whom you want to create the meeting.
 
