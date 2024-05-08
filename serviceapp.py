@@ -64,7 +64,7 @@ def create_meeting() :
     my_date_end = (datetime.datetime.now() + datetime.timedelta(hours=25)).replace(microsecond=0).isoformat()
 
     body = {
-    'title': 'Joe Zanini and his flying guitar',  # String, Required | Meeting title. The title can be a maximum of 128 characters long.
+    'title': 'Example Meeting Title',  # String, Required | Meeting title. The title can be a maximum of 128 characters long.
     'start': my_date_start,                            # String, Required | https://en.wikipedia.org/wiki/ISO_8601 format
     'end':   my_date_end,                              # String, Required | Replace the start/end with the times you'd like
     'hostEmail' : 'A sub users email'
